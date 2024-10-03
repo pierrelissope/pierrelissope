@@ -16,6 +16,11 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
+<p align='center'>
+  <i>
+    Currently working on my own Programming Language <a href="https://github.com/pierrelissope/shukascript">Shukascript</a><br>And on a secret project 🤫...
+  </i>
+</p>
 
 # 💻 Tech Stack
 
