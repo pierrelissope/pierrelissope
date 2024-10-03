@@ -1,6 +1,21 @@
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-lissope) 
+<h1 align='center'>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Pierre Lissope 
+</h1>
+
+<p align="center">
+  <i>Software engineering enthusiast</i>
+</p>
+
+<p align='center'>
+  I'm currently in my 2nd year at <b>Epitech</b> and<br><b>Head of Software</b> at <a href="https://github.com/PoCInnovation">PoC Innovation</a>.
+</p>
+
+<p align='center'>
+    <a href="https://linkedin.com/in/pierre-lissope">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
 
 # 💻 Tech Stack
 
