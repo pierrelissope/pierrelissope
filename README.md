@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-  I'm currently in my 2nd year at <a href="https://www.epitech.eu/">Epitech</a> and<br><b>Head of Software</b> at <a href="https://github.com/PoCInnovation">PoC Innovation</a>.
+  I'm currently in my 2nd year at <a href="https://www.epitech.eu/">Epitech</a> and<br><b>Head of Software 💻 </b> at <a href="https://github.com/PoCInnovation">PoC Innovation</a>.
 </p>
 
 <p align='center'>
