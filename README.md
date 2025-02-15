@@ -18,7 +18,7 @@
 </p>
 <p align='center'>
   <i>
-    Currently working on my own Programming Language <a href="https://github.com/pierrelissope/shukascript">Shukascript</a><br>And on a secret project 🤫...
+    Currently working on my own Programming Language <a href="https://github.com/pierrelissope/shukascript">Shukascript</a>
   </i>
 </p>
 
